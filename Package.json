@@ -1,0 +1,10 @@
+{
+  "name": "nodejs-starter",
+  "version": "1.0.0",
+  "description": "A clean Node.js starter template",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "MIT"
+}
